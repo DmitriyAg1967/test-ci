@@ -5,7 +5,7 @@
   "main": "inddex.js",
   "scripts": {
     "test": "jest --coverage",
-    "lint": "eslint ."
+    "lint": "eslint"
   },
   "repository": {
     "type": "git",
